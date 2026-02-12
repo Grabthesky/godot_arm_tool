@@ -1,6 +1,6 @@
-# RGBA Texture Packer for Godot 4
+# RGBA Texture Packer for Godot
 
-A powerful and flexible Godot 4 editor plugin that allows you to pack multiple textures into a single RGBA image directly inside the editor.
+A powerful and flexible Godot editor plugin that allows you to pack multiple textures into a single RGBA image directly inside the editor.
 
 Designed for production workflows, this tool provides full control over channel selection, inversion, resolution scaling, resampling methods, and real-time preview.
 
@@ -8,7 +8,7 @@ Compatible with Godot 4.x.
 
 ---
 
-![ARM Tool Screenshot](./arm_tool.jpg)
+![ARM Tool Screenshot](./arm_tool_screenshot.jpg)
 
 ## Features
 
@@ -104,7 +104,7 @@ The tool will appear in the right dock panel.
 ## Requirements
 
 - Godot 4.x
-- Tested in Godot 4.4
+- Tested in Godot 4.6
 
 ---
 
